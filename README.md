@@ -11,3 +11,6 @@ This project scrapes the latest headlines from BBC News and saves them in `headl
 1. Install required libraries:
    ```bash
    pip install requests beautifulsoup4
+2.Run the script:
+ ```bash
+    python Task3.py
